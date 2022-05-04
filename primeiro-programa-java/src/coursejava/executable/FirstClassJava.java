@@ -5,7 +5,7 @@ public class FirstClassJava {
 	public static void main(String[] args) {
 		
 		/* Imprime no console */
-		System.out.println("My first program in Java");
+		System.out.println("My first program in \nJava");
 
 	}
 }
